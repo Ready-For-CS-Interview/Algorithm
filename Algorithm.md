@@ -1,8 +1,13 @@
 # Algorithm
 
+---
+
 ## Index
 1. [정렬](#1-정렬)
 2. [Problem Solving Paradigm](#2-Problem-Solving-Paradigm)
+3. [질문 및 답변](#3-질문-및-답변)
+
+---
 
 ## 1. 정렬
 
@@ -19,7 +24,7 @@ link 올려주세요
 <details>
 <summary>1-3. Bubble Sort</summary>
 <a href="https://velog.io/@geooeg/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Bubble-Sort" target="_blank">
-Bubble Sort 정리글 보러가기
+Bubble Sort 정리글
 </a>
 </details>
 
@@ -36,7 +41,7 @@ link 올려주세요
 <details>
 <summary>1-6. Heap Sort</summary>
 <a href="https://velog.io/@geooeg/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Heap-Sort" target="_blank">
-Heap Sort 정리글 보러가기
+Heap Sort 정리글 
 </a>
 </details>
 
@@ -48,10 +53,11 @@ link 올려주세요
 <details>
 <summary>1-8. Radix Sort</summary>
 <a href="https://velog.io/@geooeg/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Radix-Sort" target="_blank">
-Radix Sort 정리글 보러가기
+Radix Sort 정리글 
 </a>
 </details>
 
+---
 
 ## 2. Problem Solving Paradigm
 <details>
@@ -78,3 +84,7 @@ link 올려주세요
 <summary>2-5. BitMask</summary>
 link 올려주세요
 </details>
+
+---
+
+## 3. 질문-및-답변
