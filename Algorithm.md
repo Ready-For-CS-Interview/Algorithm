@@ -19,6 +19,8 @@ link 올려주세요
 <details>
 <summary>1-2. Selection Sort</summary>
 <a href="https://velog.io/@jywon/선택-정렬" target="_blank">
+Selection Sort 정리글
+</a>
 </details>
 
 <details>
@@ -31,6 +33,8 @@ Bubble Sort 정리글
 <details>
 <summary>1-4. Quick Sort</summary>
 <a href="https://velog.io/@jywon/퀵-정렬" target="_blank">
+Quick Sort 정리글
+</a>
 </details>
 
 <details>
@@ -48,6 +52,8 @@ Heap Sort 정리글
 <details>
 <summary>1-7. Counting Sort</summary>
 <a href="https://velog.io/@jywon/계수-정렬" target="_blank">
+Counting Sort 정리글
+</a>
 </details>
 
 <details>
