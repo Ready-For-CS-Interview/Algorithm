@@ -74,10 +74,11 @@ link 올려주세요
 </details>
 
 <details>
-<summary>2-2. Greedy</summary>
-link 올려주세요
+<summary>2-2. Greedy Algorithm</summary>
+<a href="https://velog.io/@geooeg/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Greedy-Algorithm" target="_blank">
+Greedy Algorithm 정리글 
+</a>
 </details>
-
 <details>
 <summary>2-3. 재귀</summary>
 link 올려주세요
