@@ -13,7 +13,7 @@
 
 <details>
 <summary>1-1. Insertion Sort</summary>
-link 올려주세요
+https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Insertion-Sort
 </details>
 
 <details>
@@ -39,7 +39,7 @@ Quick Sort 정리글
 
 <details>
 <summary>1-5. Merge Sort</summary>
-link 올려주세요
+https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Merge-Sort
 </details>
 
 <details>
