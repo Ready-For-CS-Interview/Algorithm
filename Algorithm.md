@@ -13,7 +13,8 @@
 
 <details>
 <summary>1-1. Insertion Sort</summary>
-https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Insertion-Sort
+<a href="https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Insertion-Sort" target="_blank">
+Insertion Sort 정리글
 </details>
 
 <details>
@@ -39,7 +40,8 @@ Quick Sort 정리글
 
 <details>
 <summary>1-5. Merge Sort</summary>
-https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Merge-Sort
+<a href="https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Merge-Sort" target="_blank">
+Merge Sort 정리글
 </details>
 
 <details>
