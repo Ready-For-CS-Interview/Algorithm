@@ -4,7 +4,7 @@
 
 ## Index
 1. [정렬](#1-정렬)
-2. [Problem Solving Paradigm](#2-Problem-Solving-Paradigm)
+2. [Problem Solving Paradigm](#2-problem-solving-paradigm)
 3. [질문 및 답변](#3-질문-및-답변)
 
 ---
@@ -81,12 +81,14 @@ Greedy Algorithm 정리글
 </details>
 <details>
 <summary>2-3. 재귀</summary>
-link 올려주세요
+<a href="https://velog.io/@jywon/최소-공통-조상-LCA" target="_blank">
+재귀 정리글
 </details>
 
 <details>
 <summary>2-4. LCA</summary>
-link 올려주세요
+<a href="https://velog.io/@jywon/재귀#반복문" target="_blank">
+LCA 정리글
 </details>
 
 <details>
@@ -96,4 +98,4 @@ link 올려주세요
 
 ---
 
-## 3. 질문-및-답변
+## 3. 질문 및 답변
