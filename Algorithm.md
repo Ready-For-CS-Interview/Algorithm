@@ -70,7 +70,8 @@ Radix Sort 정리글
 ## 2. Problem Solving Paradigm
 <details>
 <summary>2-1. Dynamic Programming</summary>
-link 올려주세요
+<a href="https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DP-LIS" target="_blank">
+Dynamic Programing 정리글 
 </details>
 
 <details>
