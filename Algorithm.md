@@ -79,6 +79,7 @@ link 올려주세요
 Greedy Algorithm 정리글 
 </a>
 </details>
+
 <details>
 <summary>2-3. 재귀</summary>
 link 올려주세요
@@ -91,9 +92,10 @@ link 올려주세요
 
 <details>
 <summary>2-5. BitMask</summary>
-link 올려주세요
+<a href="https://velog.io/@geooeg/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-BitMask" target="_blank">
+BitMask 정리글 
+</a>
 </details>
-
 ---
 
 ## 3. 질문-및-답변
