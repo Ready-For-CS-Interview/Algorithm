@@ -83,13 +83,13 @@ Greedy Algorithm 정리글
 
 <details>
 <summary>2-3. 재귀</summary>
-<a href="https://velog.io/@jywon/최소-공통-조상-LCA" target="_blank">
+<a href="https://velog.io/@jywon/재귀#반복문" target="_blank">
 재귀 정리글
 </details>
 
 <details>
 <summary>2-4. LCA</summary>
-<a href="https://velog.io/@jywon/재귀#반복문" target="_blank">
+<a href="https://velog.io/@jywon/최소-공통-조상-LCA" target="_blank">
 LCA 정리글
 </details>
 
