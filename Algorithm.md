@@ -4,7 +4,7 @@
 
 ## Index
 1. [정렬](#1-정렬)
-2. [Problem Solving Paradigm](#2-Problem-Solving-Paradigm)
+2. [Problem Solving Paradigm](#2-problem-solving-paradigm)
 3. [질문 및 답변](#3-질문-및-답변)
 
 ---
@@ -70,7 +70,8 @@ Radix Sort 정리글
 ## 2. Problem Solving Paradigm
 <details>
 <summary>2-1. Dynamic Programming</summary>
-link 올려주세요
+<a href="https://velog.io/@jooon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DP-LIS" target="_blank">
+Dynamic Programing 정리글 
 </details>
 
 <details>
@@ -82,12 +83,14 @@ Greedy Algorithm 정리글
 
 <details>
 <summary>2-3. 재귀</summary>
-link 올려주세요
+<a href="https://velog.io/@jywon/최소-공통-조상-LCA" target="_blank">
+재귀 정리글
 </details>
 
 <details>
 <summary>2-4. LCA</summary>
-link 올려주세요
+<a href="https://velog.io/@jywon/재귀#반복문" target="_blank">
+LCA 정리글
 </details>
 
 <details>
@@ -98,4 +101,4 @@ BitMask 정리글
 </details>
 ---
 
-## 3. 질문-및-답변
+## 3. 질문 및 답변
